@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219609795120",
+    "project_id": "skapp-1b273",
+    "storage_bucket": "skapp-1b273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219609795120:android:43d5be1ac0f93369283bf5",
+        "android_client_info": {
+          "package_name": "com.example.skapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219609795120-900uc3s18e9qq5hspknmt9panj80b2is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuqpHwuMZpYRnkVSZUBApyXmCYZ1Wh8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219609795120-900uc3s18e9qq5hspknmt9panj80b2is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
